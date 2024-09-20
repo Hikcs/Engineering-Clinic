@@ -1,1 +1,2 @@
-/log
+# ignoring all text files
+*.txt
